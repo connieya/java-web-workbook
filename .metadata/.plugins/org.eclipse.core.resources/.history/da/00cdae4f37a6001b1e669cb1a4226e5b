@@ -1,0 +1,5 @@
+package lesson01.exam02.server;
+
+public class CalculatorServer {
+
+}

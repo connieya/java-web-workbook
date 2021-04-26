@@ -1,0 +1,7 @@
+package lesson01.exam02.multiserver;
+
+public class CalculatorWorker extends Thread {
+	
+	
+
+}
