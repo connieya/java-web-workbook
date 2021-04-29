@@ -38,17 +38,18 @@
   ## 4.10 정리
   
 # 5장 MVC 아키텍처
- - ## MVC 이해하기
- - ## 뷰 컴포넌트와 JSP
- - ## JSP의 주요 구성 요소
- - ## 서블릿에서 뷰 분리하기
- - ## 포워딩과 인클루딩
- - ## 데이터 보관소
- - ## JSP 액션 태그의 사용
- - ## EL 사용하기
- - ## JSTL 사용하기
- - ## DAO 만들기
- - ## ServletContextListener와 객체 공유
- - ## DB 커넥션풀
- - ## DataSource 와 JNDI
- - ## 정리
+  ## 5.1 MVC 이해하기
+  ## 5.2 뷰 컴포넌트와 JSP
+  ## 5.3 JSP의 주요 구성 요소
+  ## 5.4 서블릿에서 뷰 분리하기
+  ## 5.5 포워딩과 인클루딩
+  ## 5.6 데이터 보관소
+   - ### [HttpSession의 활용 - 로그인](readme/src/chap05/sec06/exam02/로그인.md)
+  ## 5.7 JSP 액션 태그의 사용
+  ## 5.8 EL 사용하기
+  ## 5.9 JSTL 사용하기
+  ## 5.10 DAO 만들기
+  ## 5.11 ServletContextListener와 객체 공유
+  ## 5.12 DB 커넥션풀
+  ## 5.13 DataSource 와 JNDI
+  ## 5.14 정리
