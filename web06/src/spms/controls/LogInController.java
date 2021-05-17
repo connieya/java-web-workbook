@@ -8,12 +8,18 @@ import spms.dao.MemberDao;
 import spms.vo.Member;
 
 public class LogInController implements Controller {
+	MemberDao memberDao;
+	
+	public LogInController setMemberDao(MemberDao memberDao) {
+		this.memberDao = memberDao;
+		return this;
+	}
 
 	@Override
 	public String execute(Map<String, Object> model) throws Exception {
-		if(model.get("loginInfo") == null) { // 입력 폼을 요청할때
+		if(model.get("loginInfo") == null) { // �엯�젰 �뤌�쓣 �슂泥��븷�븣
 			return "/auth/LogInForm.jsp";
-		}else { // 회원 등록을 요청할 때
+		}else { // �쉶�썝 �벑濡앹쓣 �슂泥��븷 �븣
 			MemberDao memberDao = (MemberDao) model.get("memberDao");
 			Member loginInfo = (Member)model.get("loginInfo");
 			

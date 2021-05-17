@@ -2,12 +2,19 @@ package spms.controls;
 
 import java.util.Map;
 
-public class MemberDeleteController implements Controller {
+import spms.dao.MemberDao;
 
+public class MemberDeleteController implements Controller {
+	 MemberDao memberDao;
+	  
+	  public MemberDeleteController setMemberDao(MemberDao memberDao) {
+	    this.memberDao = memberDao;
+	    return this;
+	  }
 	@Override
 	public String execute(Map<String, Object> model) throws Exception {
-		// TODO Auto-generated method stub
-		return null;
+		Integer no = (Integer) model.get("no");
+		return "redirect:list.do";
 	}
 
 }

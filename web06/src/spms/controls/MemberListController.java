@@ -6,6 +6,13 @@ import spms.dao.MemberDao;
 
 public class MemberListController implements Controller {
 	// 예외가 발생 했을 때는 호출자인 프런트 컨트롤러에게 던지면 된다.
+	  MemberDao memberDao;
+	  
+	  public MemberListController setMemberDao(MemberDao memberDao) {
+	    this.memberDao = memberDao;
+	    return this;
+	  }
+
 	
 	@Override
 	public String execute(Map<String, Object> model) throws Exception {
