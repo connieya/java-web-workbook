@@ -23,6 +23,7 @@ public class MemberAddServlet extends HttpServlet {
 		 RequestDispatcher rd = request.getRequestDispatcher(
 			        "/member/MemberForm.jsp");
 			    rd.forward(request, response);
+			    // MemberForm.jsp로 포워딩 하는 코드
 	
 	}
 	

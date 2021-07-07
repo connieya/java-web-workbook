@@ -1,0 +1,112 @@
+2021-04-26 10:14:10,205 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-27 08:45:30,307 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-28 08:54:12,568 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-29 13:59:37,774 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-30 15:23:11,398 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-03 11:52:41,945 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-04 11:02:59,434 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-17 14:34:51,671 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-17 15:56:34,952 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @4921889ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-05-17 15:56:35,086 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-08-03T13:24:06.825Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 15.0.1+9-18
+2021-05-17 15:56:35,105 [main] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-05-17 15:56:35,106 [main] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-05-17 15:56:35,107 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2021-05-17 15:56:35,136 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@538ae70f{/wse,null,AVAILABLE}
+2021-05-17 15:56:35,172 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4304b631{HTTP/1.1, (http/1.1)}{0.0.0.0:55897}
+2021-05-17 15:56:35,172 [main] INFO  org.eclipse.jetty.server.Server - Started @4922110ms
+2021-05-17 15:56:35,173 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2021-05-17 16:01:29,771 [Worker-44: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: web06:web06:0.0.1-SNAPSHOT @ C:\study\java_web_workbook\web06\pom.xml.
+2021-05-17 16:01:35,347 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:01:35,352 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:01:35,360 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:01:35,364 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:01:35,401 [Worker-44: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /web06/src
+2021-05-17 16:01:35,403 [Worker-44: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /web06/src/test/java because it overlaps with /web06/src
+2021-05-17 16:01:36,211 [Worker-44: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-05-17 16:01:37,337 [Worker-44: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: web06:web06:0.0.1-SNAPSHOT @ C:\study\java_web_workbook\web06\pom.xml.
+2021-05-17 16:01:39,472 [Worker-44: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /web06/src
+2021-05-17 16:01:39,473 [Worker-44: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /web06/src/test/java because it overlaps with /web06/src
+2021-05-17 16:01:40,611 [Worker-44: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for web06
+2021-05-17 16:01:40,655 [Worker-44: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-05-17 16:01:42,265 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:01:42,268 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:01:42,272 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:01:42,275 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:01:42,276 [Worker-46: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of web06
+2021-05-17 16:01:42,278 [Worker-46: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for web06
+2021-05-17 16:01:42,355 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:02:30,734 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:02:30,736 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:02:30,738 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:02:30,742 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:22:34,073 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:22:34,077 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:22:34,080 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:22:34,081 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:22:43,158 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:22:43,160 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:22:43,162 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:22:43,163 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:23:39,271 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:23:39,273 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:23:39,275 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:23:39,277 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:23:46,388 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:23:46,393 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:23:46,395 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:23:46,397 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:24:08,155 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:24:08,160 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:24:08,162 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:24:08,164 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:24:29,096 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:24:29,098 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:24:29,100 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:24:29,102 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:52:33,334 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:52:33,337 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:52:33,339 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:52:33,344 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 16:55:43,583 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:55:43,585 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 16:55:43,585 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 16:55:43,587 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 17:09:22,099 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:09:22,104 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 17:09:22,108 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:09:22,110 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 17:13:52,090 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:13:52,092 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 17:13:52,094 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:13:52,096 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 17:16:26,814 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:16:26,816 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 17:16:26,818 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:16:26,820 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 17:17:17,452 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:17:17,454 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 17:17:17,456 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:17:17,457 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 17:33:04,020 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:33:04,022 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 17:33:04,024 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:33:04,026 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 17:42:09,546 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:42:09,549 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-17 17:42:09,556 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-17 17:42:09,558 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-17 17:44:26,764 [Framework stop - Equinox Container: 0cbadccd-5c4a-4518-a9e7-8505a3725454] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4304b631{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2021-05-17 17:44:26,769 [Framework stop - Equinox Container: 0cbadccd-5c4a-4518-a9e7-8505a3725454] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-05-17 17:44:27,001 [Framework stop - Equinox Container: 0cbadccd-5c4a-4518-a9e7-8505a3725454] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@538ae70f{/wse,null,UNAVAILABLE}
+2021-05-31 13:08:42,853 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2021-05-31 13:08:49,934 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: web06:web06:0.0.1-SNAPSHOT @ C:\study\java_web_workbook\web06\pom.xml.
+2021-05-31 13:09:03,974 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-31 13:09:03,980 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-31 13:09:03,992 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-31 13:09:04,001 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
+2021-05-31 13:42:34,110 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-31 13:57:23,756 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-31 14:18:44,823 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-31 14:18:44,849 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\main\resources
+2021-05-31 14:18:44,853 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-31 14:18:44,856 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\study\java_web_workbook\web06\src\test\resources
